@@ -3,13 +3,13 @@
 #### Technical Skills: Python
 
 ## Education						       		
-### **Master of Science** in *Microeletronics and Microsystems, Hamburg University of Technology (_February 2025_)*
+### Master of Science in *Microelectronics and Microsystems*, Hamburg University of Technology (_February 2025_)
 - Specialization in Embedded Systems
 - Focus on sensor fabrication, silicon wafer technology, RTOS introduction, Embedded computer architecture, dependable systems, Energy efficiency in embedded systems, and software for embedded systems
 #### Master Thesis: *Comprehensive Performance Analysis of a Redundant Wireless Inertial Sensor System for Indoor Position Tracking*
 
 
-### **Bachelor of Engineering** in *Electrical and Electronics Engineering, Easwari Engineering College, Anna University (_March 2019_)*
+### Bachelor of Engineering in *Electrical and Electronics Engineering*, Easwari Engineering College, Anna University (_March 2019_)
 - Focused on electrical and electronics fundamentals, Introduction to embedded systems, Power electronics, Digital Signal Processing, and Microprocessor and Microcontroller programming
 - Hands-on experience on soldering, and lab equipment such as logic analyzers, oscilloscopes, soldering equipment, and basic FPGA programming
 #### Bachelor Thesis: *Man Machine Interface Integrating Retinal and Vocal Command based Home Automation System*
@@ -33,9 +33,9 @@
 
 ### **System Engineer @ Tata Consultancy Services (_May 2019 - September 2021_)**, *Chennai, Tamil Nadu, India*
 - Worked in the Engineering Industrial Services (EIS) domain.
-- Working with embedded systems, PCB design, and electronic circuit design.
-- Assisted in designing mobile robot sensors and navigation systems.
-- Provided technical support for robotic systems for sensor interfacing.
+- Working with embedded systems, PCB design, and electronic circuit design
+- Assisted in designing mobile robot sensors and navigation systems
+- Provided technical support for robotic systems for sensor interfacing
 
 ## Projects
 ### **Comprehensive Performance Analysis of a Redundant Wireless Inertial Sensor System for Indoor Position Tracking (_December 2024_)**
@@ -49,5 +49,5 @@
 
 ### **Design, Development, and Validation of a Miniaturized BNO055 Sensor Module for Smart Machine Elements (_February 2025_)** 
 ***Project Work, Institute of Microsystems Technology, TU Hamburg***
-- Designed a compact IMU for integrating into machine elements (M12 bolts).
-- Evaluated signal reliability, noise behavior, and mechanical robustness of sensor circuits.
+- Designed a compact IMU for integrating into an M12 bolt used as a machine element
+- Evaluated signal reliability, noise behavior, and mechanical robustness of sensor circuits
