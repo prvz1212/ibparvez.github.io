@@ -1,44 +1,57 @@
-# Electonics Engineer
+# Electronics Engineer
 
-#### Technical Skills: Python, 
+#### Technical Skills: Python
 
 ## Education						       		
 ### **Master of Science**
-- *Microeletronics and Microsystems	| Hamburg University of Technology (_February 2025_)*
-- 			        		
+*Microeletronics and Microsystems	| Hamburg University of Technology (_February 2025_)*
+- Specialization in Embedded Systems
+- Focus on sensor fabrication, silicon wafer technology, RTOS introduction, Embedded computer architecture, dependable systems, Energy efficiency in embedded systems, and software for embedded systems
+- **Master Thesis:** *Comprehensive Performance Analysis of a Redundant Wireless Inertial Sensor System for Indoor Position Tracking*
 ### **Bachelor of Engineering**
--  *Electrical and Electronics Engineering | Easwari Engineering College, Anna University (_March 2019_)*
+*Electrical and Electronics Engineering | Easwari Engineering College, Anna University (_March 2019_)*
+- Focused on electrical and electronics fundamentals, Introduction to embedded systems, Power electronics, Digital Signal Processing, and Microprocessor and Microcontroller programming
+- Hands-on experience on soldering, and lab equipment such as logic analyzers, oscilloscopes, soldering equipment, and basic FPGA programming
+- **Bachelor Thesis:** *Man Machine Interface Integrating Retinal and Vocal Command based Home Automation System*
+
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Workstudent @ DLR - Institute for Maritime Energy Systems (_August 2023 - December 2024_)**
+*Geestacht, Schleswig-Holstein, DE*
+- Been a part of the Virtual Ship Department, primarily focusing on data collection of representative operating data at model scale
+- Contributed to the development of Embedded sensor systems for the digital twin of a model-scale vessel based on EPIC architecture
+- Designed and implemented a power switching PCB using discrete components for battery-DC generator switching
+- Prototyped UWB-based closed-environment tracking system using RSSI, integrated with Raspberry Pi for edge computing
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Student Tutor for Embedded Systems @ Institute of Embedded Systems, TUHH (_April 2023 - July 2023_)**
+*Hamburg, DE*
+- Provided feedback and instructions for the weekly project process of each student group
+- Organized the materials and presentation files for the class
+- Responsible for answering questions from students during class and via email
+
+**Student Assistant @ CarbonFreed(Fishing for Experience) (_November 2022 - March 2023_)**
+*Hamburg, DE*
+- Developed a virtual chat assistant to answer the basic queries of CarbonFreed GmbH Customers
+- Utilized Python-based Frameworks(Chatterbot) for Chatbot and Django for web interface
+
+**System Engineer @ Tata Consultancy Services (_May 2019 - September 2021_)**
+*Chennai, Tamil Nadu, India*
+- Worked in the Engineering Industrial Services (EIS) domain.
+- Working with embedded systems, PCB design, and electronic circuit design.
+- Assisted in designing mobile robot sensors and navigation systems.
+- Provided technical support for robotic systems for sensor interfacing.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Comprehensive Performance Analysis of a Redundant Wireless Inertial Sensor System for Indoor Position Tracking 
+*Master Thesis(_December 2024_), Institute of Microsystems Technology, TU Hamburg*
+- Designed and developed a 4-layer 10 DOF Multiple Inertial Measurement system based on STM32 microcontroller with wireless capabilities, and developed decentralized firmware for the process.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### Smart Sphere 
+*SPP2305 Student Competition(_May 2024_), Technical University of Dresden, Dresden*
+- Designed a 3D printed sphere integrated with an IMU-based embedded system to visualize the trajectory of the ball
+- Presented the demonstration and output at the Technical University of Dresden
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+### Design, Development, and Validation of a Miniaturized BNO055 Sensor Module for Smart Machine Elements 
+*Project Work(_February 2025_), Institute of Microsystems Technology, TU Hamburg*
+- Designed a compact IMU for integrating into machine elements (M12 bolts).
+- Evaluated signal reliability, noise behavior, and mechanical robustness of sensor circuits.
