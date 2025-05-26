@@ -38,11 +38,11 @@
 
 ## Projects
 ### Comprehensive Performance Analysis of a Redundant Wireless Inertial Sensor System for Indoor Position Tracking 
-***Master Thesis(_December 2024_), Institute of Microsystems Technology, TU Hamburg***
+*Master Thesis(_December 2024_), Institute of Microsystems Technology, TU Hamburg*
 - Designed and developed a 4-layer 10 DOF Multiple Inertial Measurement system based on STM32 microcontroller with wireless capabilities, and developed decentralized firmware for the process.
 
 ### Smart Sphere 
-***SPP2305 Student Competition(_May 2024_), Technical University of Dresden, Dresden***
+*SPP2305 Student Competition(_May 2024_), Technical University of Dresden, Dresden*
 - Designed a 3D printed sphere integrated with an IMU-based embedded system to visualize the trajectory of the ball
 - Presented the demonstration and output at the Technical University of Dresden
 
