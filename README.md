@@ -6,12 +6,13 @@
 ### **Master of Science** in *Microeletronics and Microsystems, Hamburg University of Technology (_February 2025_)*
 - Specialization in Embedded Systems
 - Focus on sensor fabrication, silicon wafer technology, RTOS introduction, Embedded computer architecture, dependable systems, Energy efficiency in embedded systems, and software for embedded systems
-- **Master Thesis:** *Comprehensive Performance Analysis of a Redundant Wireless Inertial Sensor System for Indoor Position Tracking*
+#### Master Thesis: *Comprehensive Performance Analysis of a Redundant Wireless Inertial Sensor System for Indoor Position Tracking*
+
 
 ### **Bachelor of Engineering** in *Electrical and Electronics Engineering, Easwari Engineering College, Anna University (_March 2019_)*
 - Focused on electrical and electronics fundamentals, Introduction to embedded systems, Power electronics, Digital Signal Processing, and Microprocessor and Microcontroller programming
 - Hands-on experience on soldering, and lab equipment such as logic analyzers, oscilloscopes, soldering equipment, and basic FPGA programming
-- **Bachelor Thesis:** *Man Machine Interface Integrating Retinal and Vocal Command based Home Automation System*
+#### Bachelor Thesis: *Man Machine Interface Integrating Retinal and Vocal Command based Home Automation System*
 
 
 ## Work Experience
@@ -37,16 +38,16 @@
 - Provided technical support for robotic systems for sensor interfacing.
 
 ## Projects
-### **Comprehensive Performance Analysis of a Redundant Wireless Inertial Sensor System for Indoor Position Tracking**
-*Master Thesis(_December 2024_), Institute of Microsystems Technology, TU Hamburg*
+### **Comprehensive Performance Analysis of a Redundant Wireless Inertial Sensor System for Indoor Position Tracking (_December 2024_)**
+*Master Thesis, Institute of Microsystems Technology, TU Hamburg*
 - Designed and developed a 4-layer 10 DOF Multiple Inertial Measurement system based on STM32 microcontroller with wireless capabilities, and developed decentralized firmware for the process.
 
-### **Smart Sphere**
-*SPP2305 Student Competition(_May 2024_), Technical University of Dresden, Dresden*
+### **Smart Sphere ((_May 2024_))**
+*SPP2305 Student Competition, Technical University of Dresden, Dresden*
 - Designed a 3D printed sphere integrated with an IMU-based embedded system to visualize the trajectory of the ball
 - Presented the demonstration and output at the Technical University of Dresden
 
-### **Design, Development, and Validation of a Miniaturized BNO055 Sensor Module for Smart Machine Elements** 
-***Project Work(_February 2025_), Institute of Microsystems Technology, TU Hamburg***
+### **Design, Development, and Validation of a Miniaturized BNO055 Sensor Module for Smart Machine Elements (_February 2025_)** 
+***Project Work, Institute of Microsystems Technology, TU Hamburg***
 - Designed a compact IMU for integrating into machine elements (M12 bolts).
 - Evaluated signal reliability, noise behavior, and mechanical robustness of sensor circuits.
