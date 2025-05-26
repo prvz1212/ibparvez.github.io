@@ -1,4 +1,6 @@
-# Electronics Engineer
+## Professional Summary
+Graduate student in Microelectronics and Microsystems from Hamburg University of Technology (TUHH) with expertise in hardware design, embedded systems, and circuit development. Skilled in C++, Python, Linux, sensor integration, PCB design (Altium, KiCAD), and development tools, eager to apply my skills to innovative embedded software solutions.
+
 
 #### Technical Skills: Python
 
